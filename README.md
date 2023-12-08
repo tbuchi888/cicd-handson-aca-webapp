@@ -2,7 +2,7 @@
 こちらは、Github Actions のサンプルを利用した CIOps CI/CD Handson の手順を説明したものとなります。
 + 記載の内容については、2023年11月21日時点の環境（ OSS や、その他 Azure 等プラットフォームのバージョン）をベースとしています。
 + **なお、こちらに記載の内容はあくまでサンプルとなりますので、ご注意ください。**
-<img width="801" alt="image" src="./assets/17949085/0ccd7a92-3225-405c-92d3-dd19843b6ec0.png">
+<img width="801" alt="image" src="assets/284433799-0ccd7a92-3225-405c-92d3-dd19843b6ec0.png">
 
 ## TASK0: 事前準備
 本 Handson では、開始前に以下の準備ができていることを前提としています。
