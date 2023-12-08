@@ -12,7 +12,7 @@
   * [https://github.com/tbuchi888/cicd-handson](https://github.com/tbuchi888/cicd-handson)
  
 ## Option3: Azure Conitainer Appでのカナリアリリース * Github Action
-* 難易度：　*******
+* 難易度：　**********
 * Azure Conitainer App にて、複数のリビジョンを利用したカナリアリリース（新規割合を10％等）を実現してみましょう。
   * 手動でのオペレーションの確認
     * 　以下参考 
