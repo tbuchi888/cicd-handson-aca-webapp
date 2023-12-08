@@ -1,5 +1,5 @@
 # Task01: docker build 用 VM を作成
-<img width="801" alt="ScreenShot" src="assets/cd3d3c75-f578-4f27-836e-ae4ae3934999.png">
+<img width="801" alt="ScreenShot" src="assets/286450947-cd3d3c75-f578-4f27-836e-ae4ae3934999.png">
 <BR>
 <BR>
 
@@ -7,7 +7,7 @@ docker build および、テスト環境として、Azure VM Ubuntu 20.04 を作
 また、Port 80 および 8088 で自身の PC からアクセスできるようにします。
 
 ## 1. Azure Portal より GUI で VM 作成する場合
-<img width="801" alt="ScreenShot" src="assets/c2999d0f-49f7-44e4-a05c-f4452445b6a7.png">
+<img width="500" alt="ScreenShot" src="assets/286451020-c2999d0f-49f7-44e4-a05c-f4452445b6a7.png">
 <BR>
 <BR>
 
@@ -16,7 +16,7 @@ bicep（ IaC ） を利用する場合は、こちらはとばして [2.へ](01-
    
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/2277c524-c531-4b6f-a58e-750b82727c90.png">
+<img width="801" alt="ScreenShot" src="assets/285413227-2277c524-c531-4b6f-a58e-750b82727c90.png">
 <BR>
 <BR>
 
@@ -24,7 +24,7 @@ bicep（ IaC ） を利用する場合は、こちらはとばして [2.へ](01-
 
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/eb22b897-9d9c-405f-86e4-56e7eb565131.png">
+<img width="801" alt="ScreenShot" src="assets/285413559-eb22b897-9d9c-405f-86e4-56e7eb565131.png">
 <BR>
 <BR>
 
@@ -32,7 +32,7 @@ bicep（ IaC ） を利用する場合は、こちらはとばして [2.へ](01-
 
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/c97d0d0c-8fe4-4dc7-9d6d-546eb20c6ec5.png">
+<img width="801" alt="ScreenShot" src="assets/285413720-c97d0d0c-8fe4-4dc7-9d6d-546eb20c6ec5.png">
 <BR>
 <BR>
 
@@ -49,7 +49,7 @@ bicep（ IaC ） を利用する場合は、こちらはとばして [2.へ](01-
 
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/3efd7d74-e3b0-4c77-a7a8-65c05c5ef82f.png">
+<img width="801" alt="ScreenShot" src="assets/286924656-3efd7d74-e3b0-4c77-a7a8-65c05c5ef82f.png">
 <BR>
 <BR>
 
@@ -59,7 +59,7 @@ bicep（ IaC ） を利用する場合は、こちらはとばして [2.へ](01-
 > * また、複数チームで同一のサブスクリプションを利用している場合、リソースグループの後に参加チーム独自の数字をつけるなどして、重複しないようユニークとなるようにしてください。
 
 ## 2. bicep で VM の作成
-<img width="801" alt="ScreenShot" src="assets/b24dc825-694f-4ced-b1e3-4ed06ba348c3.png">
+<img width="500" alt="ScreenShot" src="assets/286451049-b24dc825-694f-4ced-b1e3-4ed06ba348c3.png">
 <BR>
 <BR>
 
@@ -73,12 +73,12 @@ Azure Portal より `Cloud Shell`　(bash)を開きます。
 
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/3afccdcc-9f4c-4525-afb0-aec45882064d.png">
+<img width="801" alt="ScreenShot" src="assets/286167740-3afccdcc-9f4c-4525-afb0-aec45882064d.png">
 <BR>
 <BR>
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/8bdc0a31-b866-4e95-ad94-fb345d717d97.png">
+<img width="801" alt="ScreenShot" src="assets/286168455-8bdc0a31-b866-4e95-ad94-fb345d717d97.png">
 <BR>
 <BR>
 
@@ -446,7 +446,7 @@ takuya [ ~ ]$
 
 
 ## 3. 　(Azure Portal & bicep共通) 作成した VM を Azure Portal で表示して、`ネットワーク セキュリティ グループ`を変更・追加する
-<img width="801" alt="ScreenShot" src="assets/cd3d3c75-f578-4f27-836e-ae4ae3934999.png">
+<img width="801" alt="ScreenShot" src="assets/286450947-cd3d3c75-f578-4f27-836e-ae4ae3934999.png">
 <BR>
 <BR>
 
@@ -455,7 +455,7 @@ SSH接続（22番ポートのアクセス）をAnyから自分のPCのパブリ�
 
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/d2152096-2f21-4b6e-8f5a-009c43069020.png">
+<img width="801" alt="ScreenShot" src="assets/285427604-d2152096-2f21-4b6e-8f5a-009c43069020.png">
 <BR>
 <BR>
 
@@ -477,7 +477,7 @@ SSH接続（22番ポートのアクセス）をAnyから自分のPCのパブリ�
 
 <BR>
 <BR>
-<img width="801" alt="ScreenShot" src="assets/83ff9282-fbde-4bd7-a3be-cc9dfdf0b1f9.png">
+<img width="801" alt="ScreenShot" src="assets/286266178-83ff9282-fbde-4bd7-a3be-cc9dfdf0b1f9.png">
 <BR>
 <BR>
 
