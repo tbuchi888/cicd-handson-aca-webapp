@@ -107,7 +107,7 @@
 
 <BR>
 <BR>
-<img width="801" alt="image" src="(assets/6bffd144-f28c-49ab-860c-22c328b216a6.png">
+<img width="801" alt="image" src="assets/6bffd144-f28c-49ab-860c-22c328b216a6.png">
 <BR>
 <BR>
 
