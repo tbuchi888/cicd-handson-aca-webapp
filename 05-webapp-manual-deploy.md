@@ -77,7 +77,6 @@
 <img width="801" alt="imageCreate" src="assets/77f90f14-abef-4124-9b40-1c86d88c7457.png">
 <BR>
 <BR>
-![ScreenShot 2023-12-05 15 36 13](assets/11098999-f274-47e6-97d3-664aa91fe23f)
 <img width="801" alt="imageCreate" src="assets/11098999-f274-47e6-97d3-664aa91fe23f.png">
 <BR>
 <BR>
@@ -119,7 +118,7 @@
   
 <BR>
 <BR>
-<img width="801" alt="imageCreate" src="assets/85773a58-0262-4328-94c0-e40b090088b2).png">
+<img width="801" alt="imageCreate" src="assets/85773a58-0262-4328-94c0-e40b090088b2.png">
 <BR>
 <BR>
 
