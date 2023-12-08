@@ -1,11 +1,11 @@
 # TASK06： Azure WebApp for containers での CI/CD を体感
-<img width="849" alt="image" src="assets/a9afbe6c-8f60-44e2-9347-9d952ce174bc.png">
+<img width="801" alt="image" src="assets/a9afbe6c-8f60-44e2-9347-9d952ce174bc.png">
 <BR>
 <BR>
 Azure WebApp for containers と Github リポジトリを連携し、Github Actions により コンテナイメージのビルド（CI）と Azure WebApp for containers へのデプロイをしていきます。
 
 ## 1. 事前準備 Github リポジトリの作成
-<img width="849" alt="image" src="assets/741a0fab-152c-425c-8247-f2ed086cb01e.png">
+<img width="500" alt="image" src="assets/741a0fab-152c-425c-8247-f2ed086cb01e.png">
 <BR>
 <BR>
 Azure WebApp for containers の CI/CD に利用する Github リポジトリの作成します。
@@ -15,7 +15,7 @@ Azure WebApp for containers の CI/CD に利用する Github リポジトリの�
 
 <BR>
 <BR>
-<img width="968" alt="ScreenShot 2023-11-30 17 31 04" src="assets/df32e87a-87b2-4f88-ba0d-e63fec934718.png">
+<img width="801" alt="ScreenShot 2023-11-30 17 31 04" src="assets/df32e87a-87b2-4f88-ba0d-e63fec934718.png">
 <BR>
 <BR>
 
@@ -28,7 +28,7 @@ Azure WebApp for containers の CI/CD に利用する Github リポジトリの�
 
 <BR>
 <BR>
-<img width="849" alt="image" src="assets/efffd4b3-7522-44d7-a91e-ffee2d0e81d1.png">
+<img width="801" alt="image" src="assets/efffd4b3-7522-44d7-a91e-ffee2d0e81d1.png">
 <BR>
 <BR>
 <img width="801" alt="image" src="assets/848e23c8-f4bc-47a7-b56d-96a632ddb00e.png">
