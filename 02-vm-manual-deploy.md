@@ -12,16 +12,16 @@
 <BR>
 <BR>
 
-VM の PublicIp へ SSH で接続し、Nginx を CLI でインストールします。
+VM の PublicIP(Azure Portal の VM の概要画面より確認可能) へ SSH で接続し、Nginx を CLI でインストールします。
 
 ```
-# VM の PublicIp を環境変数に設定
+# VM の PublicIP* を環境変数に設定 
 VMPIP="AAA.BBB.CCC.DDD"
 # azureuserで接続
 ssh azureuser@$VMPIP
 ```
 
-teraminal より 　Nginx をインストールします。
+Terminal より 　Nginx をインストールします。
 
 ```
 # apt update
@@ -365,7 +365,9 @@ azureuser@simpleLinuxVM:~$
 <img width="801" alt="ScreenShot" src="assets/ec0298df-525d-4ad2-8916-ff0c6cae2d51.png">
 <BR>
 <BR>
-terminal へ戻り、docker が動いていることを確認します。
+
+Terminal へ戻り、docker が動いていることを確認します。
+
 ``` bash
 sudo docker ps
 ```
@@ -790,7 +792,7 @@ v1: digest: sha256:63da8530beedeedb228cf1ea25eceefda7affecdc0f41b3c56c21e9456a2e
 <BR>
 <BR>
 
-つづいて、terminal へ戻り、v2 コンテナを`push`します。
+つづいて、Terminal へ戻り、v2 コンテナを`push`します。
 > [!CAUTION]
 > 以下`[REPLACE-YOUR-DOCKER-ID]`は必ず、自身の Docker ID に置き換えてください！
 
