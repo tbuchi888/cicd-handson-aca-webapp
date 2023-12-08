@@ -6,7 +6,7 @@
 Azure Container Apps と Github リポジトリを連携し、Github Actions により コンテナイメージのビルド（CI）と　Azure Container Apps　へのデプロイをしていきます。
 
 ## 1. 事前準備 Github リポジトリの作成
-<img width="801" alt="ScreenShot" src="assets/741a0fab-152c-425c-8247-f2ed086cb01e.png">
+<img width="500" alt="ScreenShot" src="assets/741a0fab-152c-425c-8247-f2ed086cb01e.png">
 <BR>
 <BR>
 
