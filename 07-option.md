@@ -6,12 +6,17 @@
 * Azure Container Registry を新規に作成し、Dockerhub と置き換えてみましょう。
   * 詳細手順はこちらでは、載せませんので[公式ドキュメント](https://learn.microsoft.com/ja-jp/azure/container-registry/)等を参考に実施してみてください。
 
-## Option2: AKS GitOps
-* 難易度：　***
+## Option2: Azure Container Apps のスケーリング検証
+* 難易度：　**
+* Azure Container Apps のスケーリング検証 HandsOn
+  * [https://github.com/TakumiSeo/Test-Azure-Container-Apps-Functionalities/blob/main/scaling-valification.md](https://github.com/TakumiSeo/Test-Azure-Container-Apps-Functionalities/blob/main/scaling-valification.md)
+
+## Option3: AKS GitOps
+* 難易度：　****
 * AKS を利用した GitOps HandsOn
   * [https://github.com/tbuchi888/cicd-handson](https://github.com/tbuchi888/cicd-handson)
  
-## Option3: Azure Conitainer Appでのカナリアリリース * Github Action
+## Option4: Azure Conitainer Appでのカナリアリリース * Github Action
 * 難易度：　**********
 * Azure Conitainer App にて、複数のリビジョンを利用したカナリアリリース（新規割合を10％等）を実現してみましょう。
   * 手動でのオペレーションの確認
