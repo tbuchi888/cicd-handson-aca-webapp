@@ -394,7 +394,6 @@ cp -pr ~/demo-js-nginx-docker-k8s/html/ ./
 azureuser@simpleLinuxVM:~$ cd ~
 azureuser@simpleLinuxVM:~$ # コンテナイメージをビルドするための作業用ディレクトリを作成
 azureuser@simpleLinuxVM:~$ mkdir workdocker
-mkdir: cannot create directory ‘workdocker’: File exists
 azureuser@simpleLinuxVM:~$ cd workdocker
 azureuser@simpleLinuxVM:~/workdocker$ # 1.2.で Github から取得したコンテンツを作業ディレクトリへコピーします
 azureuser@simpleLinuxVM:~/workdocker$ cp -pr ~/demo-js-nginx-docker-k8s/html/ ./
