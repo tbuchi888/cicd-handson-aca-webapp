@@ -19,11 +19,12 @@
   + 用途：CIで作成するコンテナイメージ（Publicを想定）を格納します
     
 ---
+
 ## アジェンダ
 + [TASK0: 事前準備](README.md#task0-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99)
 + [TASK1: docker build 用 VM を作成](01-create-a-vm-for-docker-build.md)
 + [TASK2: VM でのコンテンツの手動デプロイを体感](02-vm-manual-deploy.md)
-+ [TASK3: Azure WebApp for containers でのコンテンツの手動デプロイを体感](03-containerapps-manual-deploy.md)
-+ [TASK4: Azure WebApp for containers での CI/CD を体感](04-containerapps-cicd.md)
++ [TASK3: Azure Container Apps でのコンテンツの手動デプロイを体感](03-containerapps-manual-deploy.md)
++ [TASK4: Azure Container Apps での CI/CD を体感](04-containerapps-cicd.md)
 + [TASK5: Azure WebApp for containers でのコンテンツの手動デプロイを体感](05-webapp-manual-deploy.md)
 + [TASK6: Azure WebApp for containers での CI/CD を体感](06-webapp-cicd.md)
