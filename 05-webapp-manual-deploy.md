@@ -23,7 +23,6 @@
   * 名前: webapphandsonNNNNNNNN(任意の文字列ですが、本 Azure サービス内でユニークである必要あり)
   * 公開: Docker コンテナー
   * オペレーティング システム: Linux
-  	Windows
   * 地域: Japan East
 * 価格プラン
   * Linux プラン（Japan East）: 新規作成
