@@ -6,17 +6,17 @@
 
 ## TASK0: 事前準備
 本 Handson では、開始前に以下の準備ができていることを前提としています。
-参加チーム毎に事前準備をお願いします
+参加チーム毎に事前準備をお願いします。
 
 + Hands on 用 Azure Subscription 準備
-  + 用途： アプリデプロイ用の VM 及び、Azure Container Apps, Webapp for Container を動作させます
-  + 参考： [Azure の無料アカウント](https://azure.microsoft.com/ja-jp/free/)より新規作成
+  + 用途： アプリデプロイ用の VM 及び、Azure Container Apps, Webapp for Container を動作させます。
+  + 参考： [Azure の無料アカウント](https://azure.microsoft.com/ja-jp/free/)より新規作成。
 + Github アカウントの準備
-  + アカウントが存在しない場合： [Github Top ページの Sign up for GitHub](https://github.com/) より新規作成
-  + 用途： CI/CD 用のプロジェクトを作成します
-+ dockerhub Account 準備
-  + アカウントが存在しない場合： [Dockerhub Top ページの Get Started Today for Free](https://hub.docker.com/) より新規作成
-  + 用途： CI で作成するコンテナイメージ（Publicを想定）を格納します
+  + アカウントが存在しない場合： [Github Top ページの Sign up for GitHub](https://github.com/) より新規作成。
+  + 用途： CI/CD 用のプロジェクトを作成します。
++ Dockerhub Account の準備
+  + アカウントが存在しない場合： [Dockerhub Top ページの Get Started Today for Free](https://hub.docker.com/) より新規作成。
+  + 用途： CI で作成するコンテナイメージ（Publicを想定）を格納します。
     
 ---
 
