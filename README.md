@@ -9,7 +9,7 @@
 参加チーム毎に事前準備をお願いします
 
 + Hands on 用 Azure Subscription 準備
-  + 用途： アプリデプロイ用の　VM　及び、Azure Container Apps, Webapp for Container を動作させます
+  + 用途： アプリデプロイ用の VM 及び、Azure Container Apps, Webapp for Container を動作させます
   + 参考： [Azure の無料アカウント](https://azure.microsoft.com/ja-jp/free/)より新規作成
 + Github アカウントの準備
   + アカウントが存在しない場合： [Github Top ページの Sign up for GitHub](https://github.com/) より新規作成
