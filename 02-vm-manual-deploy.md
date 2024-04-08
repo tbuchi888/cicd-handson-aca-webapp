@@ -699,7 +699,7 @@ azureuser@simpleLinuxVM:~/workdocker$
 > * たとえば、ベースイメージの変更や、コンテナビルド方法の変更等（新規ファイルの追加や、コンパイル方法変更など）があった場合のみ、`Dockerfile`の内容を変更します。
 
 ### 2.3 コンテナイメージをリポジトリへ Push
-<img width="801" alt="ScreenShot" src="assets/86f5392-dd52-44f4-8417-3c36cabecc4c.png">
+<img width="801" alt="ScreenShot" src="assets/286f5392-dd52-44f4-8417-3c36cabecc4c.png">
 <BR>
 <BR>
 
