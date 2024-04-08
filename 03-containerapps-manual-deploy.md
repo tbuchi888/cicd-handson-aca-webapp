@@ -146,6 +146,7 @@ Container Apps環境の新規作成をクリック
 * コンテナーの詳細
   * 名前：　nginx-js
   * イメージのソース：　Docker Hubまたはその他のレジストリ
+  * レジストリ ログイン サーバー: docker.io
   * イメージとタグ: `[REPLACE-YOUR-DOCKER-ID]`/nginx-js:v1
 * コンテナー リソースの割り当て
   * CPU コア：　0.25
